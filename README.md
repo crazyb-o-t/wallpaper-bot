@@ -35,3 +35,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+copy and edit by [negative](https://telegram.me/negative_officiall)
+
+copy right [Source](https://github.com/lincanbin/Telegram-Simple-Image-Bot)
