@@ -1,13 +1,9 @@
 # Telegram-Simple-Image-Bot
-A simple telegram bot which can return a random picture. 
-
-
-You can import images through the crawler tool such as [Sina Weibo Album Downloader](https://github.com/lincanbin/Sina-Weibo-Album-Downloader).
 
 
 Demo
 ------------
-* https://telegram.me/canbin_bot
+* https://telegram.me/wallpapershd_robot
 
 
 Deployment
