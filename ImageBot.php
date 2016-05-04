@@ -87,10 +87,10 @@ class ImageBotChat extends TelegramBotChat {
 		switch ($command) {
 			case 'start':
 			case 'help':
-				$this->apiSendMessage("我是一个脱离了高级趣味的Bot. /pic or /hentai ");
+				$this->apiSendMessage("send me . /pic");
 				break;
 			case 'about':
-				$this->apiSendMessage("https://github.com/lincanbin");
+				$this->apiSendMessage("https://github.com/negative23/wallpaper-bot");
 				break;
 			case 'yi':
 				$this->apiSendMessage($this->responseTable['噫！']['text']);
