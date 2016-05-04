@@ -1,2 +1,2 @@
 <?php
-define('BOT_TOKEN','');
+define('BOT_TOKEN','توکن');
